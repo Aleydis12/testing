@@ -1,0 +1,14 @@
+
+
+h1 {color: purple;}
+
+h2 {color: blueviolet;}
+
+p {color: midnightblue;}
+
+*{text-align: center;
+background-color:rgb(255, 185, 167);}
+
+h1{
+    margin: -60px;
+}
